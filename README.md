@@ -8,7 +8,7 @@ Before you begin, ensure you have met the following requirements:
 
     Python >= 3.6
     Django >= 4.2.4
-    Other dependencies as specified in requirements.txt
+    
 
 ### Installation
 
